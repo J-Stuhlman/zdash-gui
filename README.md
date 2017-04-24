@@ -1,4 +1,11 @@
 # zdash-gui
+
+This wallet is now maintaned by Ivan Vaklinov:
+
+https://github.com/vaklinov/zdash-swing-wallet-ui
+
+
+
 gui-wallet for zdash
 
 Installing and running the Wallet GUI
